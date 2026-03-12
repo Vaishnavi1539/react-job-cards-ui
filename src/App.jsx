@@ -74,7 +74,7 @@ import Card from './assets/components/card'
     location: "Pune, India"
   },
   {
-    brandLogo: "https://logo.clearbit.com/adobe.com",
+    brandLogo: "https://tse1.mm.bing.net/th/id/OIP.YLeheJp5UZzXnt8MQ6s0wAHaHa?rs=1&pid=ImgDetMain&o=7&rm=3",
     company: "Adobe",
     datePosted: "8 days ago",
     post: "React Engineer",
@@ -84,7 +84,7 @@ import Card from './assets/components/card'
     location: "Bangalore, India"
   },
   {
-    brandLogo: "https://logo.clearbit.com/uber.com",
+    brandLogo: "https://tse3.mm.bing.net/th/id/OIP.NrzoDmsiIjk5US-qXc_towHaEK?rs=1&pid=ImgDetMain&o=7&rm=3",
     company: "Uber",
     datePosted: "1 day ago",
     post: "Frontend Engineer",
@@ -94,7 +94,7 @@ import Card from './assets/components/card'
     location: "Mumbai, India"
   },
   {
-    brandLogo: "https://logo.clearbit.com/airbnb.com",
+    brandLogo: "https://tse3.mm.bing.net/th/id/OIP.7C44ooS1Q50v15DfaQGkOwHaH-?rs=1&pid=ImgDetMain&o=7&rm=3",
     company: "Airbnb",
     datePosted: "2 days ago",
     post: "Web Developer",
@@ -102,7 +102,27 @@ import Card from './assets/components/card'
     tag2: "Mid Level",
     pay: "$52/hr",
     location: "Remote"
-  }
+  },
+  {
+    brandLogo: "https://static.vecteezy.com/system/resources/previews/042/148/631/non_2x/spotify-logo-spotify-social-media-icon-free-png.png",
+    company: "Spotify",
+    datePosted: "2 days ago",
+    post: "UI/UX Designer",
+    tag1: "Contract",
+    tag2: "Mid Level",
+    pay: "$50/hr",
+    location: "Remote"
+},
+{
+    brandLogo: "https://freepnglogo.com/images/all_img/facebook-logo.png",
+    company: "Facebook",
+    datePosted: "3 days ago",
+    post: "UI/UX Designer",
+    tag1: "Contract",
+    tag2: "Mid Level",
+    pay: "$45/hr",
+    location: "Remote"
+}
 ];
 
 console.log(jobs);
